@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 AI-RAN Researcher : LEE DO KWON
+### [My Lab : NGWN lab](https://ngwn.uos.ac.kr/people)
 
-<!--
-**dokwon33/dokwon33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-Driven Radio Access Network · Network Intelligence · Wireless Systems
 
-Here are some ideas to get you started:
+I’m exploring how AI can transform the Radio Access Network — from scheduling and beamforming to full-stack network optimization.
+My research sits at the intersection of deep learning, wireless communication, and large-scale system implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Research Focus
+📡 Radio Access Network (RAN)
+
+1. Intelligent gNB scheduling & resource allocation
+
+2. AI-driven HARQ prediction & link adaptation
+
+3. Channel estimation & CSI compression with deep learning
+
+4. Multi-cell coordination & interference management
+
+🤖 AI for Wireless Systems
+
+1. Reinforcement learning for dynamic RAN control
+
+2. Graph neural networks for cell/UE topology modeling
+
+3. Foundation models for wireless signal processing
+
+🛰 System Engineering
+
+1. O-RAN architecture research
+
+2. Near-RT RIC intelligent control loops
+
+3. Real-world dataset generation & RF environment simulation
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokwon33&layout=compact)
+
+
+### 📚 Recent Work
+
+🔬 AI-driven RAN Scheduler for 5G NR
+
+📡 GNN-based CSI prediction for multi-cell coordination
+
+📊 Reinforcement Learning for dynamic RAN slicing
+
+🧬 Signal-processing foundation model prototype for wireless tasks
+
+(If you want, I can add DOIs, papers, PDF links, or custom badges.)
+
+
+
+### 📫 Contact
+
+📧 Email: zang03@uos.ac.kr
+
+⭐️ If you’re into AI + Wireless
+
+Feel free to follow, reach out, or star any project that interests you.
+Let’s build the future of AI-driven networks together.
