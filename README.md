@@ -1,4 +1,4 @@
-# 👋 AI-RAN Researcher : LEE DO KWON
+#  AI-RAN Researcher : LEE DO KWON
 ### [My Lab : NGWN lab](https://ngwn.uos.ac.kr/people)
 
 AI-Driven Radio Access Network · Network Intelligence · Wireless Systems
