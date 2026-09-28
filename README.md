@@ -15,7 +15,7 @@ LLM을 활용한 서비스 기획·개발 실무를 익히며 생성형 AI 서�
 LangGraph 기반 Multi-Agent + Agentic RAG로 KV Cache 최적화 기술(SW: TurboQuant vs HW: ITME)을 시장·이해관계자·도메인 관점에서 근거 기반으로 비교 평가하는 팀 캡스톤 프로젝트.
 
 ⚡ **[VoltGo — 전기차 충전 대기시간 활용 에이전트](https://github.com/dokwon33/voltgo)**
-충전이 끝나기 전 다녀올 수 있는 식사·쇼핑 등을 골라 동선과 복귀 시각을 계획해주는 AI 에이전트. TMAP 장소·경로 API 연동과 LangChain Human-in-the-loop 설계를 맡았습니다.
+충전이 끝나기 전 다녀올 수 있는 식사·쇼핑 등을 골라 동선과 복귀 시각을 계획해주는 AI 에이전트. 팀 프로젝트에서 TMAP 장소 검색(주변검색·통합검색, 카테고리 매핑·반경 필터) 파트를 맡았습니다.
 
 🏗️ **[PoCket — 테스트베드 실증 매칭 플랫폼](https://github.com/dokwon33/PoCket)**
 PoC 공간을 가진 사업장과 실증이 필요한 스타트업을 연결하는 MSA 기반 B2B 매칭 서비스. 제공된 서비스는 그대로 두고 상호 평가(review-service)를 신규 개발해 확장했습니다.
