@@ -26,9 +26,6 @@ PoC 공간을 가진 사업장과 실증이 필요한 스타트업을 연결하�
 - 담당: FastAPI review-service 신규 개발(JWKS 토큰 검증, Swagger 명세), Docker Compose 11개 컨테이너 인프라 기동, API 명세
 - 제공된 서비스는 수정하지 않고 Kafka 비동기 이벤트로 연결해 기능을 확장
 
-🎨 **[skala-vue-final](https://github.com/dokwon33/skala-vue-final)** — Vue 3 날씨 기반 나들이 추천 SPA (실습 과제)
-🌐 **[skala-front](https://github.com/dokwon33/skala-front)** — HTML, CSS, JS 미니 웹페이지 (실습 과제)
-
 ### 🚀 Projects
 
 📝 **[GitHub PR 기반 퀴즈 서비스](https://github.com/no-dept)** — 컴퓨터과학종합설계(캡스톤), 2026-1학기, 4인 팀 팀장
@@ -57,11 +54,6 @@ PHP 기반 문제 DB, 로그인, 게시판, 랭킹 기능
 - 이종 그래프 신경망(HetGNN) 기반 채널 상태 예측 모델 설계와 구현, HARQ 재전송 예측으로 확장
 - 위성 간 경로 설정에 Viterbi 구조를 적용해 구현과 실험 진행, 전체 지연에서 전파 지연이 지배적이라는 결과 원인 분석
 - 저궤도 위성 측위 과제 선행 문헌 조사
-
-### 🏆 Awards
-
-- 한국통신학회 하계 종합학술발표회 아이디어 경진대회 후원업체상 (2025.06) — 디지털트윈, 로보틱스, AI를 결합한 공유 개인형 이동장비(PM) 플랫폼 제안
-- 교내 개발 동아리 ALOC dev 3기 우수 스터디상 — 딥러닝 스터디장
 
 ### 🛠 Tech Stack
 
